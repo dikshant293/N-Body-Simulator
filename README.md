@@ -1,12 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Ut4Ye_b7)
-
-# Homework 3
-
-Dikshant Pratap Singh
-
-12411787
-
-dikshant@uchicago.edu
+# N-Body Simulator in C
 
 ## Code Structure
 The implementation consists of two files C files, `QTree.c` and `barneshut.c`. The `QTree.c` along with its header file `QTree.h` contains the implementation of the Quad Tree. There is also a `plot.py` file for plotting the positions and velocities of particles, and it outputs a GIF file into the folder `result_gifs.`
